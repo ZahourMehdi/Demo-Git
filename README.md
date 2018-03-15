@@ -37,5 +37,6 @@ ___
 git init
 ```
 > Initialise un dossier Git
+> https://git-scm.com/book/fr/v1/Les-bases-de-Git-Démarrer-un-dépôt-Git
 
 ![Alt Text](https://cdn-images-1.medium.com/max/1397/1*yGFvyglXcEt-ZOV3IWQTdw.jpeg)
